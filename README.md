@@ -79,14 +79,6 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -95,19 +87,27 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <!-- Devops and BaaS -->
-  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://docs.amplify.aws/assets/logo-dark.svg"
-      alt="amplify"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      alt="laravel"
       width="40"
       height="40"
     />
   </a>
+  <!-- Devops and BaaS -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
+    <img
+      src="https://docs.amplify.aws/assets/logo-dark.svg"
+      alt="amplify"
       width="40"
       height="40"
     />
