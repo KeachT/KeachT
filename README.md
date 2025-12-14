@@ -28,14 +28,6 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      alt="Github Profile Trophy"
-      height="150px"
-      src="https://github-profile-trophy.vercel.app/?username=KeachT&rank=SSS,SS,S,AAA,AA,A,B,C&column=8&margin-w=5&no-frame=true&no-bg=true&theme=tokyonight"/>
-  </a>
-</p>
 
 ## Languages and Tools:
 <p align="left">
