@@ -14,20 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there 👋
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      alt="Top Langs"
-      height="150px"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeachT&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&theme=tokyonight"
-    />
-    <img
-      alt="github stats"
-      height="150px"
-      src="https://github-readme-stats.vercel.app/api?username=KeachT&bg_color=00000000&hide_border=true&show_icons=ture&theme=tokyonight"
-    />
-  </a>
-</p>
+
+Backend Developer | Web Developer
+
+I enjoy building web applications and working on personal projects.
+
+- 🔭 Currently working as a backend developer
+- 🌱 Exploring system design and cloud architecture
+- ⚡ Continuously improving side projects
 
 ## Languages and Tools:
 <p align="left">
