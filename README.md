@@ -25,4 +25,4 @@ I enjoy building web applications and working on personal projects.
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,mysql,supabase,aws,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,php,laravel,mysql,aws,docker)](https://skillicons.dev)
